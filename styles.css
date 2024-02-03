@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.flexbox{
+	display: flex;
+	justify-content: space-between;
+}
+.flexwrap{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.box{
+	height: 50px;
+	width: 50px;
+}
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
